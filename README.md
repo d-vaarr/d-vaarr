@@ -1,70 +1,21 @@
-# About me
+# <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/00.gif" style="width: 48px; height: 48px;" /> About me
 
-> My name is d‿vaarr (in Persian means 'being wall') and a part of Quasar Company!
-> I made SQ-LION project to!
+> My name is d‿vaarr (in Persian means 'wall') and a part of Quasar Company!
+> I made SQ-LION project (soon)...!
 
-<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/space.png" alt="Space Company" style="width: 48px; height: 48px; border-radius: 25px;">
 
-# My climbing targets
 
-| Cyber security | Quantum World |
-|----------------|---------------|
+# <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/01.gif" style="width: 48px; height: 48px;" /> My World
 
-# <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/02.gif" style="width: 48px; height: 48px;" /> My abilities
+| Cyber Security | Quantum | PowerShell | Bash Shell | Batch Script | Command Prompt | HTML5 | CSS3 | JavaScript | Markdown | C# | Python | Java | SQL | Windows| Linux | Android | .NET Framework | .NET SDK | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-### Web developing
-
-| HTML5 | CSS3 | JavaScript | Markdown |
-|-------|------|------------|----------|
-
-### Script and Exploit
-
-| PowerShell | Bash Shell | Batch Script | Command Prompt |
-|------------|------------|--------------|----------------|
-
-### Application Developing
-
-| C# | Python | Java |
-|----|--------|------|
-
-# <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/01.gif" style="width: 48px; height: 48px;" /> About my programming
-
-### OS Developing Applications
-
-| Windows |
-|---------|
-
-> [`.NET Framework`](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
->
-> [`.NET SDK`](https://dotnet.microsoft.com/en-us/download)
-
-| Linux |
-|-------|
-
-> Debian base dists
-
-| Android |
-|---------|
-
-> Android app
-
-### Tool Applications
-
-+ [`SQL Server`](https://learn.microsoft.com/en-us/sql/ssms/)
-+ [`MySQL`](https://www.mysql.com/)
-+ [`Visual Studio`](https://visualstudio.microsoft.com/)
-+ [`Visual Studio Code`](https://code.visualstudio.com/)
-+ [`Jetbrains IntellijIdea`](https://www.jetbrains.com/idea/)
-+ [`Jetbrains PyCharm`](https://www.jetbrains.com/pycharm/)
-+ [`GitHub`](https://github.com/)
-+ [`Git`](https://git-scm.com/)
-
-# <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/00.gif" style="width: 48px; height: 48px;" /> Ways to contact me
+# <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/02.gif" style="width: 48px; height: 48px;" /> Ways to contact me
 
 ---
 
-| [`GitHub`](https://github.com/b-daarr/) | [`YouTube`](https://youtube.com/@b_daarr) | [`SoundCloud`](https://on.soundcloud.com/DvLfxho9rDwbGLAR8) | [`Steam`](https://steamcommunity.com/profiles/76561199808513294) | [`Reddit`](https://reddit.com/u/b-daarr/) | Email: b.daarr@outlook.com |
-|-----------------------------------------|-------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------|----------------------------|
+| [`GitHub`](https://github.com/d-vaarr/) | Email: b.daarr@outlook.com |
+|---|---|
 
 ---
 
